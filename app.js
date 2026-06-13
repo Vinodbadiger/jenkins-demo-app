@@ -1,2 +1,2 @@
 // app.js
-console.log("Hello from Jenkins CI/CD to VINOD BADIGER");
+console.log("Hello from Jenkins CI/CD");
